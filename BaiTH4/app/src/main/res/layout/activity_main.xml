@@ -12,7 +12,7 @@
         android:layout_width="match_parent"
         android:padding="5dp"
         android:orientation="horizontal"
-        android:layout_marginTop="10dp"
+        android:layout_marginTop="2dp"
         android:layout_height="50dp">
         <TextView
             android:layout_width="wrap_content"
@@ -58,7 +58,7 @@
     </LinearLayout>
     <LinearLayout
         android:layout_width="match_parent"
-        android:padding="5dp"
+        android:padding="10dp"
         android:orientation="horizontal"
         android:gravity="center_horizontal"
         android:layout_marginTop="10dp"
@@ -68,27 +68,32 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:padding="2dp"
-            android:text="+"/>
+            android:text="+"
+            android:onClick="XuLyCong"
+            />
 
         <Button
             android:id="@+id/btnTru"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:padding="2dp"
-            android:text="-"/>
+            android:text="-"
+            android:onClick="XuLyTru"/>
         <Button
             android:id="@+id/btnNhan"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:padding="2dp"
-            android:text="*"/>
+            android:text="*"
+            android:onClick="XuLyNhan"/>
 
         <Button
             android:id="@+id/btnChia"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:padding="2dp"
-            android:text="/"/>
+            android:text="/"
+            android:onClick="XuLyChia"/>
 
     </LinearLayout>
     <LinearLayout
