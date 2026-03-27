@@ -11,4 +11,9 @@
 </p>
 [Xem chi tiết](https://github.com/lethinhungcr113-collab/65132585-AndroidProgramming/tree/main/BaiTH7/DSMonAn)
 
+## Giao diện chạy app trên điện thoại bài TH 7 DS Tỉnh Thành
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bc6153fc-be63-45a3-9c15-55ada149bb56" width="300"/>
+</p>
+[Xem chi tiết](https://github.com/lethinhungcr113-collab/65132585-AndroidProgramming/tree/main/BaiTH7/DSTinhThanh)
 
