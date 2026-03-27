@@ -21,7 +21,6 @@
 [Xem chi tiết](https://github.com/lethinhungcr113-collab/65132585-AndroidProgramming/tree/main/BaiTH7/DSTinhThanh)
 
 ## Giao diện chạy app trên điện thoại bài TH 8 APP FOOD
-![h1](https://github.com/user-attachments/assets/283e8f04-49ba-4396-88ee-95013d6fc89e)
 <p align="center">
   <img src="https://github.com/user-attachments/assets/283e8f04-49ba-4396-88ee-95013d6fc89e" width="300"/>
 </p>
