@@ -17,3 +17,5 @@
 </p>
 [Xem chi tiết](https://github.com/lethinhungcr113-collab/65132585-AndroidProgramming/tree/main/BaiTH7/DSTinhThanh)
 
+## Giao diện chạy app trên điện thoại bài TH 8 APP FOOD
+[Xem chi tiết](https://github.com/lethinhungcr113-collab/65132585-AndroidProgramming/tree/main/BaiTH8_TuyChinhLV)
