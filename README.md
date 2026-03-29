@@ -32,3 +32,4 @@
   <img src="https://github.com/user-attachments/assets/25db41ba-2451-4e6b-a29c-34f4dfbcc28c" width="300"/>
 </p>
 
+[Xem chi tiết](https://github.com/lethinhungcr113-collab/65132585-AndroidProgramming/tree/main/BaiTH9_Recyclerview)
