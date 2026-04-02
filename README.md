@@ -50,3 +50,10 @@
 </p>
 
 [Xem chi tiết](https://github.com/lethinhungcr113-collab/65132585-AndroidProgramming/tree/main/BaiTH11_FragmentTinh)
+
+## Giao diện chạy app trên điện thoại bài TH 12 Fragment Dynamic
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/01476943-6792-40ca-b785-5da1e63e1edc" width="200" height="350"/>
+</p>
+
+[Xem chi tiết](https://github.com/lethinhungcr113-collab/65132585-AndroidProgramming/tree/main/BaiTH12_FragmentDong)
