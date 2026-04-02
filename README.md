@@ -43,3 +43,10 @@
 </p>
 
 [Xem chi tiết](https://github.com/lethinhungcr113-collab/65132585-AndroidProgramming/tree/main/ChuyenManHinh)
+
+## Giao diện chạy app trên điện thoại bài TH 11 Fragment Static
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9990de97-11a4-4fdf-9a6c-abb0c5015a1b" width="200" height="350"/>
+</p>
+
+[Xem chi tiết](https://github.com/lethinhungcr113-collab/65132585-AndroidProgramming/tree/main/BaiTH11_FragmentTinh)
