@@ -33,3 +33,13 @@
 </p>
 
 [Xem chi tiết](https://github.com/lethinhungcr113-collab/65132585-AndroidProgramming/tree/main/BaiTH9_Recyclerview)
+
+## Giao diện chạy app trên điện thoại bài TH 10 Chuyển màn hình 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ea14099c-ef08-40f3-a183-4626f156d692" width="300"/>
+   <img src="https://github.com/user-attachments/assets/f1f3ce9c-80fd-4823-898a-e3cb16d7b6a7" width="300"/>
+   <img src="https://github.com/user-attachments/assets/e94d6e29-b798-45ea-ba0e-8d3d376b7b7a" width="300"/>
+   <img src="https://github.com/user-attachments/assets/47fd3683-2a2d-47ee-9fd6-b12d19b0e076" width="300"/>
+</p>
+
+[Xem chi tiết](https://github.com/lethinhungcr113-collab/65132585-AndroidProgramming/tree/main/ChuyenManHinh)
