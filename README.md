@@ -57,3 +57,13 @@
 </p>
 
 [Xem chi tiết](https://github.com/lethinhungcr113-collab/65132585-AndroidProgramming/tree/main/BaiTH12_FragmentDong)
+
+## Giao diện chạy app trên điện thoại bài TH 13 Fragment Replace
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a3476123-1662-4f0d-8bb5-9be17bd6120b" width="200" height="350"/>
+   <img src="https://github.com/user-attachments/assets/90b2e309-2d7d-4fad-86d3-19075033430a" width="200" height="350"/>
+   <img src="https://github.com/user-attachments/assets/bc90a2aa-df4b-4c24-a25b-c40451db6785" width="200" height="350"/>
+   <img src="https://github.com/user-attachments/assets/1513594b-f799-4cb0-a609-3c5a31a6cf5f" width="200" height="350"/>
+</p>
+
+[Xem chi tiết](https://github.com/lethinhungcr113-collab/65132585-AndroidProgramming/tree/main/BaiTH13_FragmentEx_Replace/FragmentEx_Replace)
