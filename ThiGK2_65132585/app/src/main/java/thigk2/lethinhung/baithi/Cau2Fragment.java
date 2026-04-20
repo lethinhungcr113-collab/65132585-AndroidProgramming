@@ -33,7 +33,7 @@ public class Cau2Fragment extends Fragment {
         super.onCreate(savedInstanceState);
 
         dsTT = new ArrayList<>();
-        dsTT.add("HÀ NỘI");
+        dsTT.add("LÊ THỊ NHUNG 65132585");
         dsTT.add("QUẢNG NINH");
         dsTT.add("QUẢNG NGÃI");
         dsTT.add("THANH HÓA");
