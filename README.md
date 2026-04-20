@@ -71,11 +71,15 @@
 ## Giao diện chạy app trên điện thoại bài THI GIỮ KỲ 2 Câu 1 -> 2 -> 3 -> 4
 <table align="center"style="display:flex; justify-content:center; gap:10px; flex-wrap:wrap;">
   <tr>
-  <td><img src="https://github.com/user-attachments/assets/42ce8e68-30d4-4925-8ea5-89795fb6ba9c" width="200" height="350"/></td>
-  <td><img src="https://github.com/user-attachments/assets/9693437e-f14a-432f-8e81-ff6205124e04" width="200" height="350"/></td>
-  <td><img src="https://github.com/user-attachments/assets/74c63550-435c-4132-bd76-622f8ee59416" width="200" height="350"/></td>
-  <td><img src="https://github.com/user-attachments/assets/539df907-dd65-44c9-b651-f96ead9d5244" width="200" height="350"/></td>
+  <td><img src="https://github.com/user-attachments/assets/61ac30cd-864a-4886-8ffa-2af6ff4fa74b" width="200" height="350"/></td>
+  <td><img src="https://github.com/user-attachments/assets/45d96924-6dd4-465f-adf4-6f4e5fb98605" width="200" height="350"/></td>
+  <td><img src="https://github.com/user-attachments/assets/6e21164f-2410-4230-b5c5-77fef73d3eb6" width="200" height="350"/></td>
+  <td><img src="https://github.com/user-attachments/assets/539804de-ef92-48c6-a3f1-7f0be1d06974" width="200" height="350"/></td>
   </tr>
 </table>
 
 [Xem chi tiết](https://github.com/lethinhungcr113-collab/65132585-AndroidProgramming/tree/main/ThiGK2_65132585)
+
+
+
+
