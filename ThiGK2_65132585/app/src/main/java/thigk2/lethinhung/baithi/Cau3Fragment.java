@@ -39,11 +39,11 @@ public class Cau3Fragment extends Fragment {
 
         // Dữ liệu
         ds = new ArrayList<>();
-        ds.add(new LandScape("Lũng cú Hà Giang", "cotco", "Khánh Hòa"));
-        ds.add(new LandScape("Bà Nà Hill Đà Nẵng", "bnhill", "Miền Trung"));
-        ds.add(new LandScape("Phố cổ Hội An ", "hoian", "Thủ đô Việt Nam"));
-        ds.add(new LandScape("Quần thể Tràng An Ninh Bình", "quangninh", "Lâm Đồng"));
-        ds.add(new LandScape("Vịnh Hạ Long", "vhlong", "Kiên Giang"));
+        ds.add(new LandScape("Lũng cú Hà Giang", "cotco", "Hà Giang"));
+        ds.add(new LandScape("Bà Nà Hill Đà Nẵng", "bnhill", "Đà Nẵng"));
+        ds.add(new LandScape("Phố cổ Hội An ", "hoian", "Hội An"));
+        ds.add(new LandScape("Quần thể Tràng An Ninh Bình", "quangninh", "Ninh Bình"));
+        ds.add(new LandScape("Vịnh Hạ Long", "vhlong", "Ninh Bình"));
 
         //  LayoutManager (BẮT BUỘC)
         ryCau3.setLayoutManager(new LinearLayoutManager(getContext()));
