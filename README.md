@@ -76,4 +76,4 @@
    <img src="https://github.com/user-attachments/assets/42ce8e68-30d4-4925-8ea5-89795fb6ba9c" width="200" height="350"/>
 </p>
 
-[Xem chi tiết]
+[Xem chi tiết](https://github.com/lethinhungcr113-collab/65132585-AndroidProgramming/tree/main/ThiGK2_65132585)
