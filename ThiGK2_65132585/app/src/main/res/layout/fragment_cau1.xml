@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Cau1Fragment">
+
+    <!-- Tiêu đề -->
+    <TextView
+        android:id="@+id/tvTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="TÍNH CHU VI VÀ DIỆN TÍCH"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginTop="40dp" />
+
+    <!-- Chiều dài -->
+    <TextView
+        android:id="@+id/tvChieuDai"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Chiều dài"
+        app:layout_constraintTop_toBottomOf="@id/tvTitle"
+        app:layout_constraintStart_toStartOf="parent"
+        android:layout_marginStart="40dp"
+        android:layout_marginTop="40dp" />
+
+    <EditText
+        android:id="@+id/edtSo1"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:inputType="numberDecimal"
+        android:hint="Nhập chiều dài"
+        android:minHeight="48dp"
+        app:layout_constraintStart_toEndOf="@id/tvChieuDai"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="@id/tvChieuDai"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="40dp" />
+
+    <!-- Chiều rộng -->
+    <TextView
+        android:id="@+id/tvChieuRong"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Chiều rộng"
+        app:layout_constraintTop_toBottomOf="@id/tvChieuDai"
+        app:layout_constraintStart_toStartOf="parent"
+        android:layout_marginStart="40dp"
+        android:layout_marginTop="30dp" />
+
+    <EditText
+        android:id="@+id/edtSo2"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:inputType="numberDecimal"
+        android:hint="Nhập chiều rộng"
+        android:minHeight="48dp"
+        app:layout_constraintStart_toEndOf="@id/tvChieuRong"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="@id/tvChieuRong"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="40dp" />
+
+    <!-- Nút tính -->
+    <Button
+        android:id="@+id/btnTinh"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="TÍNH TOÁN"
+        app:layout_constraintTop_toBottomOf="@id/edtSo2"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginTop="40dp" />
+
+    <!-- Chu vi -->
+    <TextView
+        android:id="@+id/labelChuVi"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Chu vi:"
+        app:layout_constraintTop_toBottomOf="@id/btnTinh"
+        app:layout_constraintStart_toStartOf="parent"
+        android:layout_marginStart="40dp"
+        android:layout_marginTop="40dp" />
+
+    <TextView
+        android:id="@+id/tvChuVi"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="0"
+        app:layout_constraintStart_toEndOf="@id/labelChuVi"
+        app:layout_constraintTop_toTopOf="@id/labelChuVi"
+        android:layout_marginStart="20dp" />
+
+    <!-- Diện tích -->
+    <TextView
+        android:id="@+id/labelDienTich"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Diện tích:"
+        app:layout_constraintTop_toBottomOf="@id/labelChuVi"
+        app:layout_constraintStart_toStartOf="parent"
+        android:layout_marginStart="40dp"
+        android:layout_marginTop="20dp" />
+
+    <TextView
+        android:id="@+id/tvDienTich"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="0"
+        app:layout_constraintStart_toEndOf="@id/labelDienTich"
+        app:layout_constraintTop_toTopOf="@id/labelDienTich"
+        android:layout_marginStart="20dp" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
