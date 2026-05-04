@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "424360298137",
+    "project_id": "adroid-projects-acbae",
+    "storage_bucket": "adroid-projects-acbae.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424360298137:android:19fa3ef7f1bb0a59fc9a08",
+        "android_client_info": {
+          "package_name": "ltn.quanlychitieu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAbvDB82ukH2Wsc2t268IZr2GhC0QRO9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
