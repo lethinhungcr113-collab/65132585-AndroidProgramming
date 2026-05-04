@@ -35,7 +35,7 @@
 [Xem chi tiết](https://github.com/lethinhungcr113-collab/65132585-AndroidProgramming/tree/main/BaiTH9_Recyclerview)
 
 ## Giao diện chạy app trên điện thoại bài TH 10 Chuyển màn hình 
-<p align="center">
+<p align="center"style="display:flex; justify-content:center; gap:10px; flex-wrap:wrap;">
   <img src="https://github.com/user-attachments/assets/ea14099c-ef08-40f3-a183-4626f156d692" width="200" height="350"/>
    <img src="https://github.com/user-attachments/assets/f1f3ce9c-80fd-4823-898a-e3cb16d7b6a7" width="200" height="350"/>
    <img src="https://github.com/user-attachments/assets/e94d6e29-b798-45ea-ba0e-8d3d376b7b7a" width="200" height="350"/>
@@ -59,7 +59,7 @@
 [Xem chi tiết](https://github.com/lethinhungcr113-collab/65132585-AndroidProgramming/tree/main/BaiTH12_FragmentDong)
 
 ## Giao diện chạy app trên điện thoại bài TH 13 Fragment Replace
-<p align="center">
+<p align="center"style="display:flex; justify-content:center; gap:10px; flex-wrap:wrap;">
   <img src="https://github.com/user-attachments/assets/a3476123-1662-4f0d-8bb5-9be17bd6120b" width="200" height="350"/>
    <img src="https://github.com/user-attachments/assets/90b2e309-2d7d-4fad-86d3-19075033430a" width="200" height="350"/>
    <img src="https://github.com/user-attachments/assets/bc90a2aa-df4b-4c24-a25b-c40451db6785" width="200" height="350"/>
@@ -67,3 +67,19 @@
 </p>
 
 [Xem chi tiết](https://github.com/lethinhungcr113-collab/65132585-AndroidProgramming/tree/main/BaiTH13_FragmentEx_Replace/FragmentEx_Replace)
+
+## Giao diện chạy app trên điện thoại bài THI GIỮ KỲ 2 Câu 1 -> 2 -> 3 -> 4
+<table align="center"style="display:flex; justify-content:center; gap:10px; flex-wrap:wrap;">
+  <tr>
+  <td><img src="https://github.com/user-attachments/assets/61ac30cd-864a-4886-8ffa-2af6ff4fa74b" width="200" height="350"/></td>
+  <td><img src="https://github.com/user-attachments/assets/45d96924-6dd4-465f-adf4-6f4e5fb98605" width="200" height="350"/></td>
+  <td><img src="https://github.com/user-attachments/assets/6e21164f-2410-4230-b5c5-77fef73d3eb6" width="200" height="350"/></td>
+  <td><img src="https://github.com/user-attachments/assets/539804de-ef92-48c6-a3f1-7f0be1d06974" width="200" height="350"/></td>
+  </tr>
+</table>
+
+[Xem chi tiết](https://github.com/lethinhungcr113-collab/65132585-AndroidProgramming/tree/main/ThiGK2_65132585)
+
+
+
+
