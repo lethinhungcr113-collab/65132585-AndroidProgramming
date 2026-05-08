@@ -80,6 +80,14 @@
 
 [Xem chi tiết](https://github.com/lethinhungcr113-collab/65132585-AndroidProgramming/tree/main/ThiGK2_65132585)
 
+## Giao diện chạy app trên điện thoại bài TH Việc Cần Làm
+<table align="center"style="display:flex; justify-content:center; gap:10px; flex-wrap:wrap;">
+  <tr>
+  <td><img src="https://github.com/user-attachments/assets/c1ad204f-22b9-4c70-9ea6-6505ea016d6a" width="200" height="350"/></td>
+  <td><img src="https://github.com/user-attachments/assets/10f5c49d-d16f-447f-b1b4-4b2b5e8fa06f" width="200" height="350"/></td>
+  <td><img src="https://github.com/user-attachments/assets/78402396-48ab-42b1-9add-683242f6a1fc" width="200" height="350"/>
+  </tr>
+</table>
 
-
+[Xem chi tiết](https://github.com/lethinhungcr113-collab/65132585-AndroidProgramming/tree/main/ViecCanLam)
 
