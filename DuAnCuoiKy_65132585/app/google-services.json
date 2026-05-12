@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "247209513340",
+    "project_id": "daystory-c572c",
+    "storage_bucket": "daystory-c572c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247209513340:android:d5ef2b8fff61c690e854f9",
+        "android_client_info": {
+          "package_name": "ltn.daystory"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMSa1XIYrDuoW1Nn17GgRQTellfe9NT1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
